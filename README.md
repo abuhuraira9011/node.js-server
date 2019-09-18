@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ## Authors
-* Fuzail Ahmed
+* Huraira Shaikh
 
 ## License
 This project is licensed under the GPL-3.0 License - see the LICENSE.md file for details
